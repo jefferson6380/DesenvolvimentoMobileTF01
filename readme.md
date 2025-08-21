@@ -15,13 +15,13 @@
 1. Clonar o repositório:
 
    ```sh
-   git clone https://github.com/luan-tavares/unifaat-frontend-tf-aula01-server-html-jsdom
+   git clone https://github.com/jefferson6380/DesenvolvimentoMobileTF01.git
    ```
 
 2. Entrar na pasta do projeto:
 
    ```sh
-   cd unifaat-frontend-tf-aula01-server-html-jsdom
+   cd DesenvolvimentoMobileTF01/
    ```
 
 3. Criar o arquivo `.env` na raiz do projeto copiando o `.env.example`:
